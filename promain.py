@@ -26,5 +26,5 @@ def main(video):
 
 if __name__ == "__main__":
     cap = 'video\\mlsvideo.mp4'
-    video = cv.VideoCapture(r"video\\mlsvideo.mp4")
+    video = cv.VideoCapture(r"C:\\Users\Ben\Documents\dever\\python\AI572\\training\\videos\\mlsvideo.mp4")
     main(video)
